@@ -1,0 +1,17 @@
+welcome to alien_hunting
+
+you can compile by two ways
+first way:
+
+compile it with executable file alone alien_hunting.exe
+in the downloaded executable file execute permissions are denied.
+enable the execute permissions by 
+chmod u+x alien_hunting.exe
+chmod g+x alien_hunting.exe
+chmod o+x alien_hunting.exe
+then execute it  by ./alien_hunting.exe
+
+second way:
+
+download all c files and compile n3.c
+ 
